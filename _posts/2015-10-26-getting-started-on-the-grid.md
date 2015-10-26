@@ -4,11 +4,11 @@ hasPage: false
 inNav: false
 isBasedOnUrl: null
 inLanguage: null
-starred: false
+starred: true
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-10-26T15:40:12.754Z'
-dateModified: '2015-10-26T15:40:08.106Z'
+datePublished: '2015-10-26T15:43:19.691Z'
+dateModified: '2015-10-26T15:43:15.341Z'
 title: Down to Earth Style
 author: []
 sourcePath: _posts/2015-10-26-getting-started-on-the-grid.md
