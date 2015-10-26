@@ -24,6 +24,6 @@ color:
     - '#1c4229'
   brandStrength: 1
   lightness: 0.9958576834760606
-  saturation: 0.05743156839162111
-  rhythmicContrast: 0.07359267235733569
+  saturation: 0
+  rhythmicContrast: 0
 purpose: []
