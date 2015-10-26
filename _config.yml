@@ -1,6 +1,6 @@
 name: Stylism
 favicon: null
-layout_spectrum: 0.9561299639753997
+layout_spectrum: 0.78221
 typography_spectrum: 0.850050425156951
 title: style for your home
 cta:
@@ -17,7 +17,7 @@ opengraph:
   appId: null
 color:
   brandColors: []
-  brandStrength: 0.23579049855470657
+  brandStrength: 0.5
   lightness: 0.9958576834760606
   saturation: 0.05743156839162111
   rhythmicContrast: 0.07359267235733569
