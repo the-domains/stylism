@@ -7,8 +7,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: Click the pencil icon in the bottom left to read more...
-datePublished: '2015-10-26T15:35:48.537Z'
-dateModified: '2015-10-26T15:34:56.695Z'
+datePublished: '2015-10-26T15:40:12.754Z'
+dateModified: '2015-10-26T15:40:08.106Z'
 title: Down to Earth Style
 author: []
 sourcePath: _posts/2015-10-26-getting-started-on-the-grid.md
@@ -24,11 +24,6 @@ _type: Article
 
 ---
 # Down to Earth Style
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ba1614c3-fd6e-4838-b910-1a28dba43824.JPG)
 
-Welcome to our site, you can check out our work below. 
-
-## Creating a Site
-
-Winston Churchill once said, Dwelling .
-
-##
+## our work is grounded by design basics and brings out the best in your home.
